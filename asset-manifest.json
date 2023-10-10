@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/allody-online/static/css/main.50c5c436.css",
+    "main.js": "/allody-online/static/js/main.16e55ae3.js",
+    "static/media/main_background_1.png": "/allody-online/static/media/main_background_1.e050dad5478d7d755d9f.png",
+    "static/media/allody_main_blue_glow.png": "/allody-online/static/media/allody_main_blue_glow.e2e2d96775398d00a851.png",
+    "static/media/allody_boxes.png": "/allody-online/static/media/allody_boxes.330bbec09c5905302027.png",
+    "static/media/main_background_2.png": "/allody-online/static/media/main_background_2.fb25985e4d39f39587c7.png",
+    "static/media/dog_blue_blur.png": "/allody-online/static/media/dog_blue_blur.dfba15b0ba7d81fcdf2f.png",
+    "static/media/skin_right.png": "/allody-online/static/media/skin_right.6ac86075717f918f841b.png",
+    "static/media/skin_left.png": "/allody-online/static/media/skin_left.1cbc3c960ed997f9ed30.png",
+    "static/media/doggo.png": "/allody-online/static/media/doggo.5bf63882d15bfd5e34b8.png",
+    "static/media/Inter-Medium.woff": "/allody-online/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/allody-online/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/allody-online/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/doggoBox.png": "/allody-online/static/media/doggoBox.db0d5a3e2d58dfd689fc.png",
+    "static/media/allody_logo.png": "/allody-online/static/media/allody_logo.6be3bcd3c54046f8b608.png",
+    "static/media/Inter-Medium.woff2": "/allody-online/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/allody-online/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/allody-online/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/allody_blue_glow.png": "/allody-online/static/media/allody_blue_glow.6bbafd42a22489e7ebb0.png",
+    "index.html": "/allody-online/index.html",
+    "main.50c5c436.css.map": "/allody-online/static/css/main.50c5c436.css.map",
+    "main.16e55ae3.js.map": "/allody-online/static/js/main.16e55ae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c5c436.css",
+    "static/js/main.16e55ae3.js"
+  ]
+}
