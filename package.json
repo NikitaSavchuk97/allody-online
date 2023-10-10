@@ -1,6 +1,7 @@
 {
 	"name": "allody-online",
 	"version": "0.1.0",
+	"homepage": "https://nikitasavchuk97.github.io/allody-online/",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
