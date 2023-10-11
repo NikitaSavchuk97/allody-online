@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/allody-online/static/css/main.50c5c436.css",
-    "main.js": "/allody-online/static/js/main.16e55ae3.js",
+    "main.css": "/allody-online/static/css/main.ec910912.css",
+    "main.js": "/allody-online/static/js/main.bf40731b.js",
     "static/media/main_background_1.png": "/allody-online/static/media/main_background_1.e050dad5478d7d755d9f.png",
-    "static/media/allody_main_blue_glow.png": "/allody-online/static/media/allody_main_blue_glow.e2e2d96775398d00a851.png",
+    "static/media/allody_main_blue_glow.png": "/allody-online/static/media/allody_main_blue_glow.70e11a80b5478df0b95f.png",
     "static/media/allody_boxes.png": "/allody-online/static/media/allody_boxes.330bbec09c5905302027.png",
     "static/media/main_background_2.png": "/allody-online/static/media/main_background_2.fb25985e4d39f39587c7.png",
     "static/media/dog_blue_blur.png": "/allody-online/static/media/dog_blue_blur.dfba15b0ba7d81fcdf2f.png",
@@ -20,11 +20,11 @@
     "static/media/Inter-Regular.woff2": "/allody-online/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "static/media/allody_blue_glow.png": "/allody-online/static/media/allody_blue_glow.6bbafd42a22489e7ebb0.png",
     "index.html": "/allody-online/index.html",
-    "main.50c5c436.css.map": "/allody-online/static/css/main.50c5c436.css.map",
-    "main.16e55ae3.js.map": "/allody-online/static/js/main.16e55ae3.js.map"
+    "main.ec910912.css.map": "/allody-online/static/css/main.ec910912.css.map",
+    "main.bf40731b.js.map": "/allody-online/static/js/main.bf40731b.js.map"
   },
   "entrypoints": [
-    "static/css/main.50c5c436.css",
-    "static/js/main.16e55ae3.js"
+    "static/css/main.ec910912.css",
+    "static/js/main.bf40731b.js"
   ]
 }
